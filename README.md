@@ -21,7 +21,7 @@
 - **SportsApplication** - iOS app built with Swift
 - **MatchingGame** - Interactive game implementation
 - **Trivia-App** - Quiz application with engaging UI
-- **evergreenwebsite** - Web development project
+
 
 ## 📊 GitHub Stats
 ![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=AliTaha00&show_icons=true&theme=dark)
