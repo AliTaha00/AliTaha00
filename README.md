@@ -1,6 +1,6 @@
 # Hi there, I'm Ali! 👋
 
-**Computer Science Student at Florida Atlantic University** | **Full-Stack Developer** | **iOS Enthusiast**
+**Computer Science Student at Florida Atlantic University** | **Full-Stack Developer** | Mobile App Development
 
 ## 🚀 About Me
 - 🎓 Studying Computer Science at FAU with a focus on mobile and web development
