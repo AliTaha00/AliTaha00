@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi there, I'm Ali! 👋
 
-<!--
-**AliTaha00/AliTaha00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Computer Science Student at Florida Atlantic University** | **Full-Stack Developer** | **iOS Enthusiast**
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🎓 Studying Computer Science at FAU with a focus on mobile and web development
+- 📱 Completed CodePath's Intermediate iOS Development program
+- 💻 Building full-stack applications with modern JavaScript and Swift
+- 🧩 Love solving algorithmic challenges on HackerRank
+- 🌱 Currently exploring AI/ML integration in mobile apps
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+**Languages:** Swift, JavaScript, Python, HTML/CSS, C++  
+**Frontend:** React, React Native, Flutter  
+**Backend:** Node.js, RESTful APIs  
+**Databases:** PostgreSQL, Supabase  
+**Tools:** Xcode, Git, VS Code  
+**Mobile:** iOS Development, Cross-platform solutions
+
+## 📱 Featured Projects
+- **SportsApplication** - iOS app built with Swift
+- **MatchingGame** - Interactive game implementation
+- **Trivia-App** - Quiz application with engaging UI
+- **evergreenwebsite** - Web development project
+
+## 📊 GitHub Stats
+![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=AliTaha00&show_icons=true&theme=dark)
+
+## 🤝 Let's Connect!
+- 💼 LinkedIn: [Ali Taha](https://linkedin.com/in/ali-taha-9b6115251)
+- 📧 Open to internship opportunities and collaboration!
+
+---
+*Always learning, always building. Feel free to explore my repositories and reach out!*
