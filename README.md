@@ -31,7 +31,7 @@ Node.js, RESTful APIs
 PostgreSQL, Supabase  
 
 ### Tools
-Xcode, Git, GitHub, Visual Studio Code  
+Xcode, Git, GitHub, Vercel, Netlify Visual Studio Code  
 
 ### Mobile Development
 iOS Development, Cross-Platform Solutions  
